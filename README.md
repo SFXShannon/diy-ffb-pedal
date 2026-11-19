@@ -14,7 +14,7 @@ My build of a force-feedback (active) sim racing pedal. It runs the [DIY-Sim-Rac
 
 | Folder | Contents |
 |---|---|
-| `stl/` | Printed parts: base, pedal lever, push rods, hinge levers (v2 and v3), clamp holder, PCBA model |
+| `stl/` | Printed parts: base (front and back), pedal lever, push rods, hinge levers (v2 and v3), clamp holder, PCBA model |
 | `stl/from_3mf/` | The other parts from the print project, exported as STLs: faceplate links, pushrod links, pedal face, faceplate support, axis stop, clamps, motor spacer, dust cover |
 | `project/` | `Full_Build_Active_Pedal.3mf`, the QIDI Studio print project with the print settings |
 | `docs/` | [Kinematics](docs/kinematics.md): SimHub values and how they were measured |
